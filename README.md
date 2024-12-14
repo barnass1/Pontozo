@@ -74,4 +74,4 @@ Az adatbázis egy SQL query-vel készült, adatait a Users táblában tárolt fe
 - 1x3p SQL tábla egy választható rekordjának törlése
 - 1x5p Új rekord felvétele HttpPost metóduson keresztül SQL táblába
 
-# Pontszám: 
+# Pontszám: 61 pont
